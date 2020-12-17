@@ -1,0 +1,5 @@
+- [] Include server and make initial call for data before page load for better first paint.
+- [] Add dropdown feature to local currency selector.
+- [] Include rotating crypto when crypto state is LOADING.
+- [] Persist selectedCurrencySymbol using localStorage on page change.
+- [] Add tests to project. 
